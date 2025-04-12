@@ -37,3 +37,9 @@ A multi-agent AI system that helps users create personalized preparation schedul
 - Progress tracking
 - Reminder system
 - Multiple goal management
+
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
