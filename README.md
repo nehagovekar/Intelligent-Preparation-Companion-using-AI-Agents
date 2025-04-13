@@ -21,9 +21,8 @@ A multi-agent AI system that helps users create personalized preparation schedul
 1. Clone this repository
 2. Create a virtual environment: `python -m venv venv`
 3. Activate the environment: `source venv/bin/activate` (Windows: `venv\Scripts\activate`)
-4. Install dependencies: `pip install -r requirements.txt`
-5. Create a `.env` file with your OpenAI API key: `OPENAI_API_KEY=your_key_here`
-6. Run the application: `streamlit run app.py`
+4. Create a `.env` file with your OpenAI API key: `OPENAI_API_KEY=your_key_here`
+5. Run the application: `streamlit run app.py`
 
 ## Project Structure
 
